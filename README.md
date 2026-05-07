@@ -1,31 +1,75 @@
-<h1 align="center">Hi 👋, I'm Maxence</h1>
-<h3 align="center">A passionate DevOps from France</h3>
+<h1 align="center">Maxence Maireaux</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flemzord&label=Profile%20views&color=0e75b6&style=flat" alt="flemzord" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flemzord" alt="flemzord" /></a> </p>
-
-- 🔭 I’m currently working on [Formance](https://formance.com)
-
-- 📝 I regularly write articles on [https://blog.flemzord.fr](https://blog.flemzord.fr)
-
-- 💬 Ask me about **DevOps, AWS, Serverless**
-
-- 📫 How to reach me **maxence@maireaux.fr**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/maxencemaireaux/](https://www.linkedin.com/in/maxencemaireaux/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/flemzord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flemzord" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maxencemaireaux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxencemaireaux" height="30" width="40" /></a>
-<a href="https://instagram.com/flemzord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flemzord" height="30" width="40" /></a>
-<a href="https://hashnode.com/flemzord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="flemzord" height="30" width="40" /></a>
+<p align="center">
+  VP of Engineering at <a href="https://formance.com">Formance</a><br />
+  Former infra engineer, building engineering teams, platforms, and products.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://maxence.maireaux.fr">Website</a> ·
+  <a href="https://maxence.maireaux.fr/en/blog/">Blog</a> ·
+  <a href="https://www.linkedin.com/in/maxencemaireaux/">LinkedIn</a> ·
+  <a href="https://x.com/flemzord">X / Twitter</a> ·
+  <a href="mailto:maxence@maireaux.fr">Email</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flemzord&show_icons=true&locale=en&layout=compact" alt="flemzord" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flemzord&show_icons=true&locale=en" alt="flemzord" /></p>
+### About
+
+I'm VP of Engineering at [Formance](https://formance.com).
+
+I started as an infrastructure engineer, and today I spend most of my time on engineering leadership, product execution, tooling, and the systems that help teams ship better software.
+
+I write about engineering, infrastructure, AI-assisted workflows, product, and engineering culture on [maxence.maireaux.fr](https://maxence.maireaux.fr).
+
+By day, I work on engineering teams and platforms. By night, I explore indie hacking, tools, and ideas worth building.
+
+### Focus Areas
+
+- Cloud infrastructure and automation
+- Engineering leadership and team execution
+- Kubernetes, containers, and deployment workflows
+- Serverless and event-driven systems
+- Observability, monitoring, and operational reliability
+- Backend services and internal developer tooling
+- AI-assisted engineering workflows
+
+### Toolbox
+
+**Cloud & Infrastructure**  
+AWS, Kubernetes, Docker, Serverless, Nginx, Heroku
+
+**Languages & Frameworks**  
+Go, TypeScript, Python, PHP, React, Nuxt, Symfony, Laravel
+
+**Leadership & Product**  
+Engineering strategy, delivery, hiring, mentoring, product-minded execution
+
+**AI & Tooling**  
+Claude Code, Codex, AI code review workflows, developer productivity tools
+
+**Data & Messaging**  
+PostgreSQL, MySQL, MariaDB, SQLite, MongoDB, Redis, Kafka, RabbitMQ, Elasticsearch
+
+**Observability & Tools**  
+Grafana, Kibana, Postman, Hugo, GraphQL
+
+### Writing
+
+I regularly publish notes and articles about engineering, leadership, architecture, infrastructure, and AI:
+
+- [maxence.maireaux.fr](https://maxence.maireaux.fr)
+
+### Connect
+
+- LinkedIn: [maxencemaireaux](https://www.linkedin.com/in/maxencemaireaux/)
+- X / Twitter: [@flemzord](https://x.com/flemzord)
+- Instagram: [@flemzord](https://instagram.com/flemzord)
+- Hashnode: [@flemzord](https://hashnode.com/flemzord)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flemzord&show_icons=true&hide_title=true&hide_border=true" alt="GitHub stats for flemzord" />
+</p>
